@@ -40,4 +40,8 @@ x-->832040 y-->1346269 z-->2178309
 x-->1346269 y-->2178309 z-->3524578
 1346269 --> 4613732
 x-->2178309 y-->3524578 z-->5702887
+<<<<<<< HEAD
 Total of all even Fibonacci numbers less than 4000001 is 4613732.
+=======
+Total of all even Fibonacci numbers less than 4000001 is 4613732.
+>>>>>>> aa2644ac7a919231da4a50cdcd946d8eed504796
