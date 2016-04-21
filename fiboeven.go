@@ -8,7 +8,7 @@ func fiboeven() (int, int) {
 	var z int
 	var max int = 4000001
 	var sum int = 2
-	fmt.Printf("Start with %v --> %v", y, sum)
+	fmt.Printf("Start with %v --> %v\n", y, sum)
 	for (x<max && y<max && z<max) {
 		z = x+y
 		fmt.Printf("x-->%d y-->%d z-->%d\n", x,y,z)
